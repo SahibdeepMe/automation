@@ -1,0 +1,1 @@
+This automation visually maps an AI workflow 🎯 where chat input triggers smart agents 🤖, fetches data from Google Sheets 📊, processes via AI models 🧠, and returns formatted responses ✨—all interactively displayed using 3D nodes and connections 🔗.
